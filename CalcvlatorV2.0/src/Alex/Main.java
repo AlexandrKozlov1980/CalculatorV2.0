@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("My first commit");
         System.out.println("AddingNewBranch");
+        System.out.println("Another ");
 
         try {
             String inputString;
